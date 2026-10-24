@@ -1,0 +1,13 @@
+CLARC/1
+
+[metadata]
+title: Harbor Lights
+artist.1: Avery Example
+artist.2: Jordan Sample
+writer: Avery Example
+album: Demo Sessions
+duration: 00:00
+
+[lyrics]
+[00:00.00] [v1] First lyric line
+[00:01.20] [v2] Second lyric line

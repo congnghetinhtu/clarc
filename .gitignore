@@ -1,0 +1,4 @@
+# Local reference media and lyrics are not part of the public release.
+*.lrc
+*.m4a
+/03 - Phai Em Ly Ngua O.clarc
